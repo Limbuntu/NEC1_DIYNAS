@@ -8,7 +8,7 @@ NEC1号 1L+万兆+6盘全闪+12盘机械ALL IN ONE DIYNAS
 
 视频教程： https://www.bilibili.com/video/BV1NFHPzxEm1/
 
-项目地址：
+项目地址： https://github.com/Limbuntu/NEC1_DIYNAS
 
 欢迎加入QQ群讨论：1048826168
 
