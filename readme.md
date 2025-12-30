@@ -6,7 +6,11 @@ NEC1号 1L+万兆+6盘全闪+12盘机械ALL IN ONE DIYNAS
 
 这是个低成本实现6盘全闪+12盘机械的DIY NAS项目，所有部件都使用标准件，整体装配相对简易
 
-视频教程： https://www.bilibili.com/video/BV1NFHPzxEm1/
+视频教程1： https://www.bilibili.com/video/BV1NFHPzxEm1/
+
+视频教程2：https://youtu.be/YRlL-ALAgMY?si=1HucBzVOb8DftObS
+
+
 
 项目地址： https://github.com/Limbuntu/NEC1_DIYNAS
 
